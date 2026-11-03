@@ -1,0 +1,21 @@
+order_id,customer_id,order_date,status,total_brl,payment_method,tracking_code,estimated_delivery,notes,name,email
+1,3,2025-10-15,delivered,11499.0,pix,BRAB1234567BR,2025-10-25,,Pedro Henrique Oliveira,pedro.oliveira@jmail.com
+2,7,2025-11-02,delivered,5999.0,credit_6x,BRCX9876543BR,2025-11-15,,Thiago Barbosa Lima,thiago.barbosa@jmail.com
+3,12,2025-11-20,delivered,3450.0,credit_12x,BRDZ4561230BR,2025-12-05,,Isabela Moreira Cunha,isabela.moreira@jmail.com
+4,1,2025-12-10,delivered,799.9,boleto,BRQM7890123BR,2025-12-22,,Lucas Mendes da Silva,lucas.mendes@jmail.com
+5,5,2026-01-05,delivered,4599.0,pix,BRTP3456789BR,2026-01-18,,Rafael Augusto Pereira,rafael.pereira@jmail.com
+6,9,2026-01-18,delivered,7499.0,credit_12x,BRVN6543210BR,2026-02-01,,Gabriel Santos Araújo,gabriel.araujo@jmail.com
+7,14,2026-02-03,delivered,159.9,credit_3x,BRKR1122334BR,2026-02-17,,Letícia Gonçalves Rocha,leticia.rocha@jmail.com
+8,2,2026-02-15,shipped,349.9,debit,BRJL5544332BR,2026-02-28,,Ana Carolina Ferreira,anacarol.ferreira@coldmail.com
+9,6,2026-02-20,confirmed,349.9,credit_6x,,,,Juliana Almeida Rodrigues,juliana.almeida@hayoo.com.br
+10,11,2026-02-25,confirmed,8732.0,pix,,,,Bruno Carvalho Martins,bruno.martins@jmail.com
+11,4,2026-03-05,confirmed,359.0,boleto,,,,Mariana Costa Santos,mariana.costa@inlook.com
+12,16,2026-03-10,confirmed,599.0,credit_3x,,,,Patrícia Vieira Cardoso,patricia.cardoso@jmail.com
+13,8,2026-03-12,pending,1899.0,pix,,,,Fernanda Ribeiro Souza,fernanda.ribeiro@coldmail.com
+14,13,2026-03-15,pending,1749.0,debit,,,,Diego Fernandes Castro,diego.castro@coldmail.com
+15,18,2026-03-18,pending,8348.0,credit_12x,,,,Aline Borges Monteiro,aline.monteiro@jmail.com
+16,10,2026-03-22,pending,429.9,credit_6x,,,,Camila Duarte Nascimento,camila.duarte@inlook.com
+17,15,2026-01-28,cancelled,689.0,pix,,,Pedido cancelado pelo cliente antes do processamento,Matheus Ramos Correia,matheus.correia@hayoo.com.br
+18,17,2026-02-08,cancelled,459.9,credit_12x,,,Item fora de estoque no momento do pedido,Gustavo Teixeira Nunes,gustavo.nunes@inlook.com
+19,3,2026-02-22,cancelled,7499.0,boleto,,,Pagamento não confirmado dentro do prazo,Pedro Henrique Oliveira,pedro.oliveira@jmail.com
+20,7,2026-03-08,cancelled,1400.0,credit_3x,,,Endereço de entrega inválido informado pelo cliente,Thiago Barbosa Lima,thiago.barbosa@jmail.com
